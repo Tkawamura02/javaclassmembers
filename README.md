@@ -9,3 +9,4 @@ The instructor's name is Scott Dossey
 
 *   Nicole Peterson
 *   Sebastian Aguas
+*   Guillermo Guerrero
